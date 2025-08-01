@@ -6,5 +6,6 @@ https://www.youtube.com/watch?v=oWLCUFvgIuo
 #### Time Elapsed: 1.5 Hrs 
 ### 7/31/2025
 I designed two mounts in fusion, one for the spindle motor and another for the laser engraver:
-[img](https://github.com/yahia-svg/HomePcbFabricator/blob/main/img/Screenshot%202025-08-01%20175515.png?raw=true)
+![img](https://github.com/yahia-svg/HomePcbFabricator/blob/main/img/Screenshot%202025-08-01%20175515.png?raw=true)
+![img](https://github.com/yahia-svg/HomePcbFabricator/blob/main/img/Screenshot%202025-08-01%20183601.png?raw=true)
 #### Time Elapsed: 2 Hrs 
